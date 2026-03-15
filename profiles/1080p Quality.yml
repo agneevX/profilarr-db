@@ -80,15 +80,15 @@ custom_formats:
   score: 11000
 - name: SD Quality Tier 2
   score: 10000
+- name: ATVP
+  score: 4000
 - name: AMZN
   score: 3000
-- name: DSNP
-  score: 3000
-- name: ATVP
-  score: 2000
 - name: HMAX
-  score: 2000
+  score: 3000
 - name: MAX
+  score: 3000
+- name: DSNP
   score: 2000
 - name: iT
   score: 1000
@@ -195,8 +195,6 @@ custom_formats:
 custom_formats_radarr:
 - name: 1080p Balanced Tier 1
   score: 101000
-- name: 1080p Balanced Tier 2
-  score: 100000
 - name: 720p Balanced Tier 1
   score: 60000
 - name: MA
